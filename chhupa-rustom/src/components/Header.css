@@ -1,0 +1,7 @@
+.header {
+  background: rgb(207, 207, 207);
+}
+.header > h1 {
+  font-size: 32px;
+  font-weight: bolder;
+}
